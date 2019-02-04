@@ -63,7 +63,7 @@ I18N.zh = {
 
             "Search GitHub": "GitHub 一下，你就知道",
             "This repository": "当前仓库",
-            "Search": "搜索",
+            "Search or jump to...": "搜索或跳转到...",
 
             "Pull Requests": "拉取请求",
             "Pull requests": "拉取请求",
