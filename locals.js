@@ -91,6 +91,12 @@ I18N.zh = {
             "Your gists": "您的代码片段",
             "Explore": "探索",
             "Integrations": "集成",
+            
+            "Team management":"团队管理"
+            "Social coding":"社交编码"
+            "Documentation":"文档"
+            "Code hosting":"代码托管"
+            "Case Studies":"实例探究"
             "Help": "帮助",
             "Settings": "设置",
             "Sign out": "退出",
