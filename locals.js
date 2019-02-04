@@ -55,6 +55,7 @@ I18N.zh = {
             // 未登录部分
             "Personal": "个人",
             "Open source": "开源",
+            "Enterprise": "企业"
             "Business": "商业",
             "Pricing": "定价",
             "Support": "支持",
